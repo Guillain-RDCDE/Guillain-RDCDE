@@ -1,63 +1,55 @@
-<h1 align="center">Guillain d'Erceville</h1>
+<div align="center">
 
-<p align="center">
-  <em>Artist · Writer · Hedge Fund Manager · Jansenist · Venetian</em>
-</p>
-<p align="center">
-  <sub>Smooth pimping, suave gangsterism — and, when grace permits, the occasional commit.</sub>
-</p>
+# Guillain d'Erceville
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Spot-gold?style=flat-square" />
-  <img src="https://img.shields.io/badge/%23Crypto-F7931A?style=flat-square" />
-  <img src="https://img.shields.io/badge/IEX-005571?style=flat-square" />
-  <img src="https://img.shields.io/badge/CBOT-8B0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/CME-003087?style=flat-square" />
-  <img src="https://img.shields.io/badge/%23NFT-purple?style=flat-square" />
-</p>
+*Artist · Writer · Hedge Fund Manager · Jansenist · Venetian*
 
----
+⸻ ❦ ⸻
 
-I contain multitudes, a few open positions, and a deep suspicion of anything that
-*claims* to be lossless without proof.
+*I contain multitudes, a few open positions,*<br>
+*and a deep suspicion of anything that claims to be lossless without proof.*
 
-### 🎭 The book I run
+</div>
 
-- 🎨 **Artist & writer** by vocation — the rest is liquidity management.
-- 📈 **Hedge fund manager** by temperament — long conviction, short nonsense. I read the tape across the **CBOT**, the **CME**, **IEX** and a little **spot** crypto, and I wear an **NFT** the way a Venetian wears a carnival mask: amusing, fleeting, best removed before dawn.
-- ⛪ **Jansenist** by disposition — I believe in grace, predestination, and that most code was damned long before it compiled. *Pascal ran the first hedge; I merely keep the book.*
-- 🛶 **Venetian** by inclination — everything beautiful is slowly sinking. The art is to look magnificent while it does.
+&nbsp;
 
-### 💻 ...and, accessoirement, I write code
+**On the markets** — long conviction, short nonsense. I read the tape across the CBOT, the CME and IEX, with a little spot crypto on the side, and I wear an NFT the way a Venetian wears a carnival mask: amusing, fleeting, best removed before dawn.
 
-When the markets close and the confessor sleeps, I build [**FLAC Detective**](https://github.com/Guillain-RDCDE/FLAC_Detective) — a tool that unmasks MP3s smuggled into `.flac` files. Same instinct as the trading desk, really: *spotting the fake that everyone else takes at face value.*
+**On grace** — a Jansenist by disposition. I hold that most code was damned long before it compiled. *Pascal ran the first hedge; I merely keep the book.*
 
-<a href="https://github.com/Guillain-RDCDE/FLAC_Detective">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guillain-RDCDE&repo=FLAC_Detective&theme=dark&show_owner=false" />
-</a>
+**On Venice** — everything beautiful is slowly sinking. The art is to look magnificent while it does.
 
-> 11 spectral rules + a CNN trained over six honest, well-documented attempts.
-> Recall 86.9 %, false positives held flat. `pip install flac-detective`
+**On art** — the vocation. The rest is merely liquidity management.
 
-### 🛠️ Instruments
+&nbsp;
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/librosa-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markets-003087?style=for-the-badge" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Guillain-RDCDE&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guillain-RDCDE&layout=compact&theme=dark&hide_border=true" />
-</p>
+⸻ &nbsp; Selected works &nbsp; ⸻
 
----
+</div>
 
-<p align="center">
-  <em>« Le cœur a ses raisons que la raison ne connaît point. » — Pascal, probably about a leveraged position.</em><br/>
-  📫 <a href="mailto:guillain@poulpe.us">guillain@poulpe.us</a> · ☕ <a href="https://ko-fi.com/guillainrdcde">Ko-fi</a> · 🎭 Somewhere between the Rialto and the order book
-</p>
-<!-- profile -->
+[**FLAC Detective**](https://github.com/Guillain-RDCDE/FLAC_Detective) — unmasking MP3s smuggled into `.flac` files. The same instinct as the trading desk: spotting the fake that everyone else takes at face value.
+
+[**Prometheus-Station**](https://github.com/Guillain-RDCDE/Prometheus-Station) — a solar-powered Raspberry Pi serving offline Wikipedia over a long-range LoRa mesh. A lighthouse for when everything burns.
+
+[**DS2-Anywhere**](https://github.com/Guillain-RDCDE/DS2-Anywhere) — decoding Olympus DSS/DS2 dictation files with no Windows, no GUI, no apology. A format unlocked after ten years.
+
+[**HAP-Revival**](https://github.com/Guillain-RDCDE/HAP-Revival) — bringing Sony's HAP-Z1ES and HAP-S1 audiophile players back from the dead. Sony stopped in 2021; we picked it up.
+
+[**Creabook**](https://github.com/Guillain-RDCDE/Creabook) — an engine that writes books, for when the pen tires before the idea does.
+
+&nbsp;
+
+<div align="center">
+
+⸻
+
+*« Le cœur a ses raisons que la raison ne connaît point. »*<br>
+<sub>— Pascal, probably about a leveraged position.</sub>
+
+<br>
+
+<sub>guillain@poulpe.us &nbsp;·&nbsp; somewhere between the Rialto and the order book</sub>
+
+</div>
