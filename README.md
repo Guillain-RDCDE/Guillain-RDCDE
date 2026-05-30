@@ -60,3 +60,4 @@ When the markets close and the confessor sleeps, I build [**FLAC Detective**](ht
   <em>« Le cœur a ses raisons que la raison ne connaît point. » — Pascal, probably about a leveraged position.</em><br/>
   📫 <a href="mailto:guillain@poulpe.us">guillain@poulpe.us</a> · ☕ <a href="https://ko-fi.com/guillainrdcde">Ko-fi</a> · 🎭 Somewhere between the Rialto and the order book
 </p>
+<!-- profile -->
