@@ -6,7 +6,7 @@
 
 Three lives so far:
 
-- **Now** — sole engineer on a legal-grade transcription platform. Whisper + LLM with anti-hallucination guardrails, a 9-server fleet, and the whole money chain everyone else hand-waves past: invoicing, SEPA, dunning, reconciliation, fraud. On-call. Real invoices.
+- **Now** — I single-handedly run a legal-grade transcription platform end to end: the product (a Whisper + LLM pipeline with anti-hallucination guardrails), the 9-server fleet it runs on, and the entire money chain most engineers never touch — invoicing, SEPA, dunning, reconciliation, fraud. On-call. Real invoices.
 - **Before** — built and ran a fully systematic global-macro fund. Engineered the entire trading stack and took monthly volume from under $100M to $9B+ on a low-latency FIX path into LMAX.
 - **Before *that*** — ~10 years reverse-engineering protocols and protections for the paid security press.
 
