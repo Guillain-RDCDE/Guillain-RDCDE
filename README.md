@@ -26,8 +26,7 @@
 
 A full-stack revival of a 1998 toy: a **custom openFPGA core** that runs the original Game Boy Camera on the Analogue Pocket with the sensor live — so you can shoot *new* photos, with no cartridge limit, forever.
 
-- **[PocketRoll](https://github.com/Guillain-RDCDE/PocketRoll)** — the research that cracked it: SRAM format, fixed checksum, `.sta` save decode, sensor passthrough. Written twice over — a *noob* track and a *geek* track.
-- **[Open-FGPA-GB-Camera](https://github.com/Guillain-RDCDE/Open-FGPA-GB-Camera)** — the openFPGA core itself.
+- **[PocketRoll](https://github.com/Guillain-RDCDE/PocketRoll)** — the whole thing in one repo: the openFPGA core *plus* the research that cracked it (SRAM format, fixed checksum, `.sta` save decode, sensor passthrough). Documented twice over — a *noob* track and a *geek* track.
 - **[MugDump](https://github.com/Guillain-RDCDE/MugDump)** — pull your shots back off the Pocket and develop them into real images.
 
 ---
