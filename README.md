@@ -5,7 +5,7 @@
 <p align="center"><em>Most of what you read on profiles is slideware. None of this is — every claim below has a repo you can open.</em></p>
 
 <p align="center">
-  <a href="https://guillain-rdcde.github.io/Open-Alpha-Lab/"><img alt="Open-Alpha-Lab — live results" src="https://img.shields.io/badge/Open--Alpha--Lab-301_ideas_audited_in_public-0a7?style=for-the-badge"></a>
+  <a href="https://guillain-rdcde.github.io/Open-Alpha-Lab/"><img alt="Open-Alpha-Lab — live results" src="https://img.shields.io/badge/Open--Alpha--Lab-hundreds_of_ideas_audited_in_public-0a7?style=for-the-badge"></a>
   &nbsp;
   <a href="mailto:guillain@poulpe.us"><img alt="Hire me" src="https://img.shields.io/badge/work_with_me-guillain@poulpe.us-555?style=for-the-badge"></a>
 </p>
@@ -16,7 +16,7 @@
 
 **[Open-Alpha-Lab](https://github.com/Guillain-RDCDE/Open-Alpha-Lab)** — I take trading ideas apart in the open and publish the verdict: **edge or mirage**. Folklore, factor-zoo darlings, viral "90% win-rate" threads — all of it, run through one reproducible, tested engine.
 
-- **301 studies**, each a working paper + notebooks + a reproducible backtest.
+- **Hundreds of studies** and counting, each a working paper + notebooks + a reproducible backtest.
 - An honest scorecard: most are **mirages**. A handful are real-but-fragile. Three survive as genuinely investable. I publish all of it, busts included.
 - The view from someone who **actually ran the fund** — not someone who read about it.
 
