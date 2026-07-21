@@ -68,6 +68,11 @@ paid security press.
 
 ## Other projects
 
+**[Seedforger](https://github.com/Guillain-RDCDE/Seedforger)** — a modern .NET 8 revival of the
+old RatioMaster torrent-stats simulator: data-driven client fingerprints, real HTTPS announces,
+and a shaping engine that ramps and jitters like a live swarm. Cross-platform — GUI (Windows and
+Avalonia) and a headless CLI — on Windows, Linux and macOS.
+
 **[DS2-Anywhere](https://github.com/Guillain-RDCDE/DS2-Anywhere)** — open decoder for the Olympus
 DS2/DSS dictation format, closed for ten years. Now heading upstream into FFmpeg (ticket #6091,
 open since 2017).
