@@ -1,60 +1,56 @@
-<h1 align="center">Guillain d'Erceville</h1>
+# Guillain d'Erceville
 
-<p align="center"><em>I open what others lock, and ship systems that survive a test — not a demo.</em></p>
+_Production AI that ships & bills — not demos, not notebooks, not tweets._
 
-<p align="center">
-  <code>ex-$9B/mo systematic fund</code> &nbsp;·&nbsp; <code>a decade reverse-engineering closed formats</code> &nbsp;·&nbsp; <code>production systems that bill</code>
-</p>
+`Whisper + Claude + GPT-4o pipelines in production` · `reverse-engineered codecs landing in FFmpeg` · `ex-$9B/mo systematic fund founder`
 
-<p align="center">
-  <a href="https://guillain-rdcde.github.io/Open-Alpha-Lab/">Open-Alpha-Lab, live</a>
-  &nbsp;·&nbsp; <a href="mailto:guillain@poulpe.us">guillain@poulpe.us</a>
-  &nbsp;·&nbsp; FR / EN / ES
-  &nbsp;·&nbsp; near Venice
-</p>
+[guillain@poulpe.us](mailto:guillain@poulpe.us) · [LinkedIn](https://www.linkedin.com/in/guillain-d-erceville) · FR / EN · remote from France
 
 ---
 
-## The thesis
+## What I do
 
-Most software is locked, most hardware gets abandoned, and most "edges" are just claims repeated until they sound true. I open the formats, revive the hardware, and put the claims through a test that doesn't care what I hoped to find.
+I build and operate AI systems that a business actually invoices on — legal-grade, on call, in production every day. The current flagship is a transcription platform for court officers: a Whisper → GPT-4o → Claude pipeline with anti-hallucination guardrails, running ~70% of billable output unattended across a nine-server fleet.
 
-What survives goes to production — real money, on call, no demo mode. What doesn't gets published anyway. The dead ends aren't failures to hide; they're the receipts. Intellectual honesty is the only edge that compounds.
+My development workflow is agent-native: Claude Code as primary IDE with a 90KB rule base, persistent structured memory (700+ indexed entries), custom skills and hooks, MCP servers, and multi-VM orchestration. CLI agents and automated deployment pipelines are daily tools, not experiments.
+
+I own everything end to end — the AI, the infrastructure, the iOS/Android apps that drive ~90% of revenue, and the money chain: invoicing, SEPA, dunning, bank reconciliation, fraud detection.
 
 ---
 
 ## Selected work
 
-**[Open-Alpha-Lab](https://guillain-rdcde.github.io/Open-Alpha-Lab/)** — a quant research desk, in public. Hundreds of trading "edges" — folklore, the factor zoo, viral 90%-win-rate threads — run through one reproducible, cost-aware engine that returns a plain verdict: *real*, *fragile*, or *mirage*. Most are mirages. A handful survive. The busts get published too.
-
-**[PocketRoll](https://github.com/Guillain-RDCDE/PocketRoll)** — the original Game Boy Camera, running live on the Analogue Pocket from a custom openFPGA core, with no cartridge photo limit. Ships with the reverse-engineering that cracked it: SRAM layout, checksum fix, `.sta` save decoding, sensor passthrough — documented for newcomers and byte-wranglers alike.
-
-**[FLAC Detective](https://github.com/Guillain-RDCDE/FLAC_Detective)** — catches MP3s smuggled into lossless files: an 11-rule spectral analysis plus a CNN. The best part is the [honest ML write-up](https://github.com/Guillain-RDCDE/FLAC_Detective/blob/main/ml/README.md) — four approaches that failed, and an "AUC 0.99" false discovery I caught before it fooled me.
-
----
-
-## More, in the open
-
-- **[Seedforger](https://github.com/Guillain-RDCDE/Seedforger)** — a .NET 8 revival of RatioMaster that fakes torrent stats convincingly, then ships the formal proof that even a *perfect* version optimises the wrong variable.
-- **[DS2-Anywhere](https://github.com/Guillain-RDCDE/DS2-Anywhere)** — an open decoder for Olympus's DS2/DSS dictation format, closed for ten years; now heading upstream into FFmpeg.
-- **[HAP-Revival](https://github.com/Guillain-RDCDE/HAP-Revival)** — keeping Sony's HAP-Z1ES and HAP-S1 audiophile players alive after Sony walked away in 2021.
-- **[Prometheus-Station](https://github.com/Guillain-RDCDE/Prometheus-Station)** — a solar Raspberry Pi serving offline Wikipedia over a long-range LoRa mesh, for when there's no grid.
-- **[MugDump](https://github.com/Guillain-RDCDE/MugDump)** — pulls the Game Boy Camera photos back off the hardware and develops them into real images.
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| **[FLAC Detective](https://github.com/Guillain-RDCDE/FLAC_Detective)** | Catches lossy transcodes hiding inside lossless files — spectral analysis + CNN classifier, 11K files validated, zero false positives | Python · PyTorch |
+| **[DS2-Anywhere](https://github.com/Guillain-RDCDE/DS2-Anywhere)** | Opened the Olympus DS2/DSS dictation format locked for 30 years — pure CLI, in production (~3,200 cron runs), patches submitted upstream to FFmpeg | Python · Rust · C |
+| **[Open-Alpha-Lab](https://github.com/Guillain-RDCDE/Open-Alpha-Lab)** | Quantitative research desk in public — 301 trading ideas stress-tested with reproducible, cost-aware methodology. Most are mirages. | Python · Jupyter |
+| **[dss-codec](https://github.com/Guillain-RDCDE/dss-codec)** | The Rust decoder at the heart of DS2-Anywhere — byte-level reverse-engineering of a proprietary codec | Rust |
+| **[Prometheus-Station](https://github.com/Guillain-RDCDE/Prometheus-Station)** | Solar-powered Raspberry Pi serving offline Wikipedia via LoRa mesh — infrastructure that works when everything else fails | Hardware · Linux |
+| **[PocketRoll](https://github.com/Guillain-RDCDE/PocketRoll)** | Custom openFPGA core giving the 1998 Game Boy Camera an infinite film roll on the Analogue Pocket | Verilog · FPGA |
 
 ---
 
 ## Track record
 
-**Now** — a legal-grade transcription platform, end to end, solo: a Whisper + LLM pipeline with anti-hallucination guardrails, a nine-server fleet, and the whole money chain most engineers never touch — invoicing, SEPA, dunning, reconciliation, fraud. On call. Real invoices.
+**2023 – now** · **Founder & AI Systems Architect** — Legal-grade transcription platform. Whisper + Claude pipeline, nine-server fleet, iOS/Android apps, full billing stack. ~70% AI-automated output, billed daily to court officers.
 
-**Before** — a fully systematic global-macro fund. I built the entire trading stack and took monthly volume from under \$100M to more than \$9B, on a low-latency FIX path into LMAX.
+**2011 – 2017** · **Founder & CEO, Algorithmic Trading Fund** — Built the entire trading stack: tick-level ingestion across 60+ instruments, 500–3,500 strategies running 24/5, FIX connector to LMAX. Volume from <$100M to $9B/mo, AUM peak $51M. Published in Les Échos.
 
-**Before that** — roughly ten years reverse-engineering protocols and copy protections for the paid security press.
+**2006 – 2011** · **Business Manager, Microsoft France** — Led 9-person data team (SQL, SAP BO) for the $540M SMB division. Carried $47M quota, +30%. Ranked 1st/78 on customer satisfaction.
+
+**1999 – 2010** · **Security Writer & Reverse Engineer** — ~10 years in the paid security press. Real attacks, protocol internals, proofs-of-concept. Same reflex now pointed at production systems.
 
 ---
 
-## Work with me
+## I publish my dead-ends
 
-A few contract engagements a year — systems that have to work, not demo. Production LLM / Whisper pipelines (billing infrastructure included), file-format and legacy reverse-engineering, and trading / market-data plumbing (FIX, low latency, backtest to production).
+The experiments that didn't ship are on this profile too. It's the only thing that makes the production work credible.
+
+---
+
+## Let's talk
+
+Available for full-time engagement from October 2026. Production AI systems, agent orchestration, LLM pipelines, reverse-engineering, infrastructure.
 
 → **[guillain@poulpe.us](mailto:guillain@poulpe.us)**
