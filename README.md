@@ -21,6 +21,7 @@ _From the board to the byte. Same person, same week._
 | **[FLAC Detective](https://github.com/Guillain-RDCDE/FLAC_Detective)** | Catches fake lossless files — spectral analysis + CNN. 11K files, zero false positives. |
 | **[Open-Alpha-Lab](https://github.com/Guillain-RDCDE/Open-Alpha-Lab)** | 962 trading ideas stress-tested in public. Nine survive, 789 are mirages. |
 | **[HAP-Revival](https://github.com/Guillain-RDCDE/HAP-Revival)** | Reverse-engineered Sony’s abandoned HAP audio players. Own protocol implementation, 300 tests, shipped app. The dead ends are published next to the wins. |
+| **[Tintinnabulum](https://github.com/Guillain-RDCDE/tintinnabulum)** | Turns any stream of events into sound — latencies, CI builds, Wikipedia edits. Dependency-free, and the pitch mapping calibrates itself to an unknown source instead of carrying a constant tuned to one dataset. |
 | **[PocketRoll](https://github.com/Guillain-RDCDE/PocketRoll)** | Custom FPGA core for the 1998 Game Boy Camera. |
 
 ### What's not here
