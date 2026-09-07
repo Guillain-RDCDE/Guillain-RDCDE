@@ -1,35 +1,39 @@
 # Guillain d'Erceville
 
-_From the board to the byte. Same person, same week._
+### *From the board to the byte.*
+
+I take on the problems other people call impossible, abandoned, or not worth it — and I ship the answer to where it actually runs and earns money. Not a slide, not a prototype: the real thing, in production, billing clients every day.
+
+You don't need another technician. You need someone who gets in where others can't, and comes back with something that works.
 
 ---
 
-**Now** — Production AI that bills. Whisper + LLM pipeline, 9 servers, ~70% unattended. Court officers invoice on it daily.
+### What I do
 
-**Before** — Systematic fund I built end to end. $9B/mo volume, $51M AUM. 3,500 strategies running 24/5.
+**I build AI that a business can invoice on.** A legal-transcription service runs on a pipeline I built end to end — it works largely on its own, and professionals bill their own clients on what it produces, every day. Not a demo: a paying operation.
 
-**Always** — Reverse engineer. 10 years in the security press, cracking protocols and writing proofs-of-concept. The Grundig/Olympus dictation codec, closed since 1994, is now in ffmpeg-devel review.
+**I've run money at scale.** I built a systematic trading fund from nothing — the strategies, the plumbing, the risk controls — trading around **$9 billion a month**.
+
+**I open what's locked.** Ten years in the security press cracking closed systems. I reopened an audio format Olympus had sealed since **1994**; the fix is now going into FFmpeg, the tool the whole industry relies on. "Impossible to read" is usually where I start.
 
 ---
 
-### What's here
+### A few things I've built in the open
 
 | | |
 |---|---|
-| **[Trusted-Transcription](https://github.com/Guillain-RDCDE/Trusted-Transcription)** | ASR hallucination firewall — 7 detectors, LLM repair, MCP server. The generic layer extracted from production. |
-| **[DS2-Anywhere](https://github.com/Guillain-RDCDE/DS2-Anywhere)** | Cracked the Olympus DS2/DSS dictation format, closed since 1994. ~3,200 cron runs in prod. Patches sent upstream to FFmpeg. |
-| **[FLAC Detective](https://github.com/Guillain-RDCDE/FLAC_Detective)** | Catches fake lossless files — spectral analysis + CNN. 11K files, zero false positives. |
-| **[Open-Alpha-Lab](https://github.com/Guillain-RDCDE/Open-Alpha-Lab)** | 1012 trading ideas stress-tested in public. Ten survive, 799 are mirages. |
-| **[HAP-Revival](https://github.com/Guillain-RDCDE/HAP-Revival)** | Reverse-engineered Sony’s abandoned HAP audio players. Own protocol implementation, 300 tests, shipped app. The dead ends are published next to the wins. |
-| **[Tintinnabulum](https://github.com/Guillain-RDCDE/tintinnabulum)** | Turns any stream of events into sound — latencies, CI builds, Wikipedia edits. Dependency-free, and the pitch mapping calibrates itself to an unknown source instead of carrying a constant tuned to one dataset. |
-| **[PocketRoll](https://github.com/Guillain-RDCDE/PocketRoll)** | Custom FPGA core for the 1998 Game Boy Camera. |
+| **[Trusted-Transcription](https://github.com/Guillain-RDCDE/Trusted-Transcription)** | Catches an AI's confident mistakes before they reach a client — what turns an impressive demo into something you can invoice. |
+| **[FLAC Detective](https://github.com/Guillain-RDCDE/FLAC_Detective)** | Spots fake hi-fi — music sold as studio-quality that was secretly compressed — and only says so when the proof is overwhelming. |
+| **[Open-Alpha-Lab](https://github.com/Guillain-RDCDE/Open-Alpha-Lab)** | 962 famous stock-market "winning formulas", put to one honest test. Nine survive; the rest are illusions. |
+| **[DS2-Anywhere](https://github.com/Guillain-RDCDE/DS2-Anywhere)** | Opens Olympus dictation recordings on any computer — a format locked shut since 1994, finally cracked open. |
+| **[HAP-Revival](https://github.com/Guillain-RDCDE/HAP-Revival)** | Sony walked away from its high-end music players in 2021. I'm bringing them back to life. |
+| **[Prometheus-Station](https://github.com/Guillain-RDCDE/Prometheus-Station)** | A solar-powered box that serves all of Wikipedia with no internet — a lighthouse for disaster zones. |
 
-### What's not here
-
-A legal-grade transcription platform under NDA — agent orchestration, MCP servers, 90KB rule base, 700-entry structured memory, multi-VM fleet. Architecture walkthrough available under NDA.
+I publish my dead ends next to my wins. It's the only thing that makes the wins believable.
 
 ---
 
-I publish the dead ends, not just the wins. It's the only thing that makes the wins credible.
+The platform that pays the bills stays under NDA — I'll gladly walk a serious party through how it's built, privately.
 
-**Head of AI / AI Lead** — available full-time from October 2026. **[guillain@poulpe.us](mailto:guillain@poulpe.us)** · **[LinkedIn](https://www.linkedin.com/in/guillain-d-erceville)**
+**Open to a full-time role or mission from October 2026. Full remote.**
+📧 **[guillain@poulpe.us](mailto:guillain@poulpe.us)** · 💼 **[LinkedIn](https://www.linkedin.com/in/guillain-d-erceville)**
