@@ -24,7 +24,7 @@ You don't need another technician. You need someone who gets in where others can
 |---|---|
 | **[Trusted-Transcription](https://github.com/Guillain-RDCDE/Trusted-Transcription)** | Catches an AI's confident mistakes before they reach a client — what turns an impressive demo into something you can invoice. |
 | **[FLAC Detective](https://github.com/Guillain-RDCDE/FLAC_Detective)** | Spots fake hi-fi — music sold as studio-quality that was secretly compressed — and only says so when the proof is overwhelming. |
-| **[Open-Alpha-Lab](https://github.com/Guillain-RDCDE/Open-Alpha-Lab)** | 962 famous stock-market "winning formulas", put to one honest test. Nine survive; the rest are illusions. |
+| **[Open-Alpha-Lab](https://github.com/Guillain-RDCDE/Open-Alpha-Lab)** | Hundreds of famous stock-market "winning formulas", put to one honest test. Almost none survive; the rest are illusions. |
 | **[DS2-Anywhere](https://github.com/Guillain-RDCDE/DS2-Anywhere)** | Opens Olympus dictation recordings on any computer — a format locked shut since 1994, finally cracked open. |
 | **[HAP-Revival](https://github.com/Guillain-RDCDE/HAP-Revival)** | Sony walked away from its high-end music players in 2021. I'm bringing them back to life. |
 | **[Prometheus-Station](https://github.com/Guillain-RDCDE/Prometheus-Station)** | A solar-powered box that serves all of Wikipedia with no internet — a lighthouse for disaster zones. |
