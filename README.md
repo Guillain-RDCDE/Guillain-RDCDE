@@ -4,7 +4,7 @@ _From the board to the byte. Same person, same week._
 
 ---
 
-**Now** — Production AI that bills. Whisper + Claude pipeline, 9 servers, ~70% unattended. Court officers invoice on it daily.
+**Now** — Production AI that bills. Whisper + LLM pipeline, 9 servers, ~70% unattended. Court officers invoice on it daily.
 
 **Before** — Systematic fund I built end to end. $9B/mo volume, $51M AUM. 3,500 strategies running 24/5.
 
@@ -19,7 +19,7 @@ _From the board to the byte. Same person, same week._
 | **[Trusted-Transcription](https://github.com/Guillain-RDCDE/Trusted-Transcription)** | ASR hallucination firewall — 7 detectors, LLM repair, MCP server. The generic layer extracted from production. |
 | **[DS2-Anywhere](https://github.com/Guillain-RDCDE/DS2-Anywhere)** | Cracked the Olympus DS2/DSS dictation format, closed since 1994. ~3,200 cron runs in prod. Patches sent upstream to FFmpeg. |
 | **[FLAC Detective](https://github.com/Guillain-RDCDE/FLAC_Detective)** | Catches fake lossless files — spectral analysis + CNN. 11K files, zero false positives. |
-| **[Open-Alpha-Lab](https://github.com/Guillain-RDCDE/Open-Alpha-Lab)** | 962 trading ideas stress-tested in public. Nine survive, 789 are mirages. |
+| **[Open-Alpha-Lab](https://github.com/Guillain-RDCDE/Open-Alpha-Lab)** | 1012 trading ideas stress-tested in public. Ten survive, 799 are mirages. |
 | **[HAP-Revival](https://github.com/Guillain-RDCDE/HAP-Revival)** | Reverse-engineered Sony’s abandoned HAP audio players. Own protocol implementation, 300 tests, shipped app. The dead ends are published next to the wins. |
 | **[Tintinnabulum](https://github.com/Guillain-RDCDE/tintinnabulum)** | Turns any stream of events into sound — latencies, CI builds, Wikipedia edits. Dependency-free, and the pitch mapping calibrates itself to an unknown source instead of carrying a constant tuned to one dataset. |
 | **[PocketRoll](https://github.com/Guillain-RDCDE/PocketRoll)** | Custom FPGA core for the 1998 Game Boy Camera. |
