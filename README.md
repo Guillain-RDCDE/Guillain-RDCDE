@@ -1,86 +1,48 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Guillain d’Erceville — Forward Deployed Engineer (AI), Ballast Systems" width="100%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img src="assets/banner-light.png" alt="Guillain d’Erceville — Forward Deployed Engineer (AI), Ballast Systems" width="100%">
+</picture>
 
-I sit in the seat between the people who run a business and the machines it runs on. I take the brief in plain words, from the CEO, and turn it into working systems, in production, with my own hands on the keyboard. Nothing ships that I haven’t checked myself.
+I sit in the seat between the people who run a business and the machines it runs on. I take the brief in plain words, from the CEO, and turn it into working systems, in production, with my own hands on the keyboard. Nothing ships that I haven’t checked myself. Before this: ten years in the security press as a reverse engineer, a systematic trading fund I built and ran with real money, and Microsoft France.
 
-Most engineers can either talk to a board or build the thing. The value lives in the seam between the two, and that is where I work.
+<br>
+
+## Start here
+
+| If you… | Go to |
+|---|---|
+| run a business with a system nobody dares to touch | the field notes on **[Ballast Systems](https://www.linkedin.com/company/146478074/)**: what the client asked, what I found, what broke after |
+| are hiring a Forward Deployed Engineer | **[LinkedIn](https://www.linkedin.com/in/guillain-d-erceville)**, then **[Trusted-Transcription](https://github.com/Guillain-RDCDE/Trusted-Transcription)** and **[DS2-Anywhere](https://github.com/Guillain-RDCDE/DS2-Anywhere)** |
+| are an engineer and want the details | **[Open-Alpha-Lab](https://github.com/Guillain-RDCDE/Open-Alpha-Lab)**, **[dss-codec](https://github.com/Guillain-RDCDE/dss-codec)**, **[Seedforger](https://github.com/Guillain-RDCDE/Seedforger)** |
+| own a Sony HAP, a Jooki, or a Game Boy Camera | **[HAP-Revival](https://github.com/Guillain-RDCDE/HAP-Revival)**, **[OpenJooki](https://github.com/Guillain-RDCDE/OpenJooki)**, **[PocketRoll](https://github.com/Guillain-RDCDE/PocketRoll)**, **[MugDump](https://github.com/Guillain-RDCDE/MugDump)** |
 
 <br>
 
 ## What I do
 
-**Keep old, critical systems alive while the business keeps running.**
-Migrations with no downtime, no rewrite, no surprise. Most recently: a whole company’s only server, twenty years old, no backup of anything, moved to safety on a Saturday night. On Monday, nobody noticed.
+**Keep old, critical systems alive while the business keeps running.** No downtime, no rewrite, no surprise.
 
-**Put AI into production, not into slides.**
-Speech and language models with guardrails, measured on real workloads and billed to real clients: a legal-services platform of about 300 people and 900 professional clients, where one wrong word is a legal liability and most of the output leaves without a human touching it.
+**Put AI into production, not into slides.** Models with guardrails, measured on real workloads, billed to real clients, where one wrong word is a legal liability.
 
-**Make one engineer count for a team.**
-An AI agent in the terminal executes; I decide; everything is verified before it reaches production. Two weeks instead of two months, and the mistakes caught before they cost anything.
+**Make one engineer count for a team.** An AI agent in the terminal executes; I decide; everything is verified before it reaches production.
 
-**Report upstairs in two sentences anyone can act on.**
-Then write the runbook for the person who isn’t me.
-
-<br>
-
-## Proof, not promises
-
-I publish field notes from real engagements: what the client asked, what I found, the options put on the CEO’s desk, the build, the switch, and what broke after. Numbers, not adjectives. They appear under **[Ballast Systems](https://www.linkedin.com/company/146478074/)**.
-
-<br>
-
-## Where it comes from
-
-**Ten years as a published security researcher and reverse engineer.** Find the weak assumption, prove it, harden it. The byte-level codec work now going into FFmpeg is the direct descendant of those years.
-
-**A systematic trading fund, built from nothing and run with real money**, up to $9 billion a month in traded volume. On-call for my own stack, five nights a week.
-
-**Microsoft France**, analytics for a $540M division, then a sales quota carried personally. The half of the job that isn’t code: living in the customer’s constraints, then translating them for the people who build.
+**Report upstairs in two sentences anyone can act on.** Then write the runbook for the person who isn’t me.
 
 <br>
 
 ## Built in the open
 
-#### Production AI you can invoice
+**Production AI you can invoice** · [Trusted-Transcription](https://github.com/Guillain-RDCDE/Trusted-Transcription), guardrails that catch the AI’s confident mistakes before a client does.
 
-**[Trusted-Transcription](https://github.com/Guillain-RDCDE/Trusted-Transcription)** · Guardrails for speech-to-text in production: catches the AI’s confident mistakes before a client sees them, and removes their cause. Learned where one wrong word is a legal liability.
+**Locked formats and abandoned hardware, reopened** · [DS2-Anywhere](https://github.com/Guillain-RDCDE/DS2-Anywhere) and [dss-codec](https://github.com/Guillain-RDCDE/dss-codec), a dictation format locked since 1994, now going into FFmpeg · [HAP-Revival](https://github.com/Guillain-RDCDE/HAP-Revival), Sony’s abandoned music players kept alive · [OpenJooki](https://github.com/Guillain-RDCDE/OpenJooki), a child’s speaker outliving its maker · [PocketRoll](https://github.com/Guillain-RDCDE/PocketRoll) and [MugDump](https://github.com/Guillain-RDCDE/MugDump), the 1998 Game Boy Camera on modern hardware.
 
-#### Locked formats and abandoned hardware, reopened
+**Honest measurement** · [Open-Alpha-Lab](https://github.com/Guillain-RDCDE/Open-Alpha-Lab), famous trading edges put to one honest test · [FLAC Detective](https://github.com/Guillain-RDCDE/FLAC_Detective), fake lossless audio caught only on overwhelming proof · [Seedforger](https://github.com/Guillain-RDCDE/Seedforger), a tool shipped with the proof that it cannot win.
 
-**[DS2-Anywhere](https://github.com/Guillain-RDCDE/DS2-Anywhere)** · Opens Olympus and Grundig dictation recordings on any computer, a format locked since 1994. Replaced a paid licence and a chain of Windows machines; the fix is going upstream into FFmpeg.
+**Hearing what your systems are doing** · [Tintinnabulum](https://github.com/Guillain-RDCDE/Tintinnabulum), live events turned into sound and light.
 
-**[dss-codec](https://github.com/Guillain-RDCDE/dss-codec)** · The decoding engine underneath: the closed format reverse-engineered and matched to the original down to the last sample.
-
-**[HAP-Revival](https://github.com/Guillain-RDCDE/HAP-Revival)** · Sony walked away from its high-end music players in 2021. This keeps them alive and improving, on your own network, nothing sent anywhere.
-
-**[OpenJooki](https://github.com/Guillain-RDCDE/OpenJooki)** · Keeps a child’s Jooki speaker working now that the company is gone. Written for parents, not technicians.
-
-**[PocketRoll](https://github.com/Guillain-RDCDE/PocketRoll)** · An endless roll of film for the 1998 Game Boy Camera on modern hardware: a limit removed by reading a format nobody had read.
-
-**[MugDump](https://github.com/Guillain-RDCDE/MugDump)** · Rescues the photos trapped in a Game Boy Camera, straight from your browser.
-
-#### Honest measurement
-
-**[Open-Alpha-Lab](https://github.com/Guillain-RDCDE/Open-Alpha-Lab)** · Hundreds of famous stock-market “winning formulas”, put through one honest protocol by someone who ran the real thing. Almost none survive, and the failures are published too.
-
-**[FLAC Detective](https://github.com/Guillain-RDCDE/FLAC_Detective)** · Catches music sold as lossless that was secretly compressed. It accuses only when independent lines of evidence agree, because a false accusation costs more than a miss.
-
-**[Seedforger](https://github.com/Guillain-RDCDE/Seedforger)** · A complete file-sharing ratio spoofer, shipped with the mathematical proof that no client-side trick can win. Build the thing, then publish why it can’t work.
-
-#### Hearing what your systems are doing
-
-**[Tintinnabulum](https://github.com/Guillain-RDCDE/Tintinnabulum)** · Turns any live stream of events into sound and light, so you hear production instead of only watching dashboards. Runs in a browser, on a phone, with nothing to install.
-
-#### When the infrastructure isn’t there
-
-**[Prometheus-Station](https://github.com/Guillain-RDCDE/Prometheus-Station)** · A solar-powered box that serves all of Wikipedia with no internet and no power grid: a lighthouse for disaster zones and remote places.
-
-<br>
+**When the infrastructure isn’t there** · [Prometheus-Station](https://github.com/Guillain-RDCDE/Prometheus-Station), all of Wikipedia from a solar-powered box.
 
 I publish my dead ends next to my wins. It is the only thing that makes the wins believable.
-
-The platform that pays the bills stays under NDA. I will gladly walk a serious party through how it is built, privately.
 
 <br>
 
